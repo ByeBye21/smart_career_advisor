@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langchain-openai
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+beautifulsoup4
